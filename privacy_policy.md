@@ -2,7 +2,7 @@ At ChatHub, we are committed to protecting the privacy and security of our users
 
 Information We Collect
 1.1 Personal Information: When you sign up for ChatHub, we may collect certain personal information such as your name, email address, and profile picture. This information is necessary for account creation and to enhance your user experience within the app.
-1.2 Chat Data: We may collect and store the content of your chat messages, including text, images, and media files sent or received through the app. This data is necessary to facilitate your conversations and provide a seamless messaging experience.
+1.2 Chat Data: We may collect and store the content of your chat messages, including text, images, sent or received through the app. This data is necessary to facilitate your conversations and provide a seamless messaging experience.
 1.3 Usage Information: We may collect certain usage information automatically when you interact with the app, including your IP address, device information, operating system, app version, and other diagnostic data. This data helps us improve the performance and functionality of the app.
 
 Use of Information
